@@ -1,0 +1,13 @@
+pypdf
+sentence-transformers
+chromadb
+streamlit
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+numpy
+pandas
+pytest
+httpx
