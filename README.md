@@ -357,28 +357,17 @@ This shows that the system does not hallucinate when the answer is not available
 Add screenshots inside the `screenshots/` folder and update these image paths.
 
 ### Streamlit Interface
-
-```markdown
 ![Streamlit UI](./screenshots/streamlit_ui.png)
-```
+
 
 ### FastAPI Health Endpoint
-
-```markdown
 ![FastAPI Health](./screenshots/fastapi_health.png)
-```
 
 ### FastAPI Upload Endpoint
-
-```markdown
 ![FastAPI Upload](./screenshots/fastapi_update.png)
-```
 
 ### FastAPI Ask Endpoint
-
-```markdown
 ![FastAPI Ask](./screenshots/fastapi_ask.png)
-```
 
 ---
 
